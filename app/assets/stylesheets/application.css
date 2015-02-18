@@ -5,8 +5,7 @@ body {
     text-align: center;
     padding-top: 14px;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-  }
+ }
 
 .clear { clear: both;}
 
@@ -23,7 +22,7 @@ div.flash.notice  { border: 2px solid blue;  color: blue;  }
 div.nav {
 	/*margin-bottom: 20px;
 	padding: 10px 0 0 5px;*/
-	margin: 31px auto;
+	margin: 46px auto;
 	margin-left: 42%;
 }
 
@@ -91,5 +90,42 @@ div.nav ul li a:hover {
 ul.functions{
 	font-family: Helvetica;
 	margin-left: 42px;
+	list-style-type: none;
+}
+
+table.todo_items{
+	margin-left: 453px;
+	font-family: Helvetica;
+	padding-top: 6px;
+}
+
+div.groceries{
+	margin-top: -21px;
+	margin-left: 110px;
+	font-family: Helvetica;
+	padding-top: 75px;
+}
+
+div.helve{
+	font-family: Helvetica;
+	margin-left: 105px;
+}
+
+ul.wheat{
+	margin-left: -26px;
+	list-style-type: none;
+}
+
+div.actions{
+	margin: 40px;
+	margin-left: 180px;
+}
+
+div.editlist{
+	margin-left: 126px;
+}
+
+div.field{
+	margin-left: 127px;
 
 }
